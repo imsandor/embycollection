@@ -1,8 +1,5 @@
-# embycollection
+# Embycollection
 一个为emby服集邮佬提供直观展示集邮成果的Web界面
-# Emby服务器管理面板
-
-一个优雅的Emby服务器管理工具，提供直观的Web界面来管理多个Emby服务器。
 
 ## 🌟 功能特点
 
