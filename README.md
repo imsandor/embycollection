@@ -70,7 +70,6 @@ LocalStorage存储项:
 这个项目本身是为了方便自己记录和管理信息的，我的代码功底薄弱，也是借此机会实践。
 如果你感觉好用，欢迎你分享给其他人，如果能点下stars就更好了。
 又如果你恰好财力雄厚，也可以 buy me a coffee
-![0138f9db50e0327d070c1c1423083f5](https://github.com/user-attachments/assets/9d1ef479-5322-466e-8511-cc126ee9b686)
 
 
 
