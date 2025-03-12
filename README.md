@@ -70,9 +70,9 @@ LocalStorage存储项:
 这个项目本身是为了方便自己记录和管理信息的，我的代码功底薄弱，也是借此机会实践。
 如果你感觉好用，欢迎你分享给其他人，如果能点下stars就更好了。
 又如果你恰好财力雄厚，也可以 buy me a coffee
-<!-- 插入图片并调整大小 -->
+
 <p align="center">
-  <img src="https://github.com/imsandor/embycollector/blob/main/coffee.png" alt="coffee" width="200" />
+  <img src="https://github.com/imsandor/embycollector/blob/main/coffee.png" alt="coffee" width="400" />
 </p>
 
 
